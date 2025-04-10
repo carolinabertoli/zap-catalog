@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "La La Land",
+    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/lalaland.mp4?alt=media",
+    "genre": "Romantic Musical",
+    "platform": "Netflix"
+  },
+  {
+    "id": "2",
+    "title": "Inception",
+    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/inception.mp4?alt=media",
+    "genre": "Sci-Fi Thriller",
+    "platform": "Prime Video"
+  },
+  {
+    "id": "3",
+    "title": "Titanic",
+    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/titanic.mp4?alt=media",
+    "genre": "Romantic Drama",
+    "platform": "Disney+"
+  }
+]
