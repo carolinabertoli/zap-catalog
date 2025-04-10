@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "title": "La La Land",
-    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/lalaland.mp4?alt=media",
-    "genre": "Romantic Musical",
-    "platform": "Netflix"
+    "title": "The Present",
+    "videoUri": "https://cdn.videvo.net/videvo_files/video/free/2013-09/small_watermarked/TimeLapseOfCity2_preview.mp4",
+    "genre": "Short Drama",
+    "platform": "YouTube"
   },
   {
     "id": "2",
-    "title": "Inception",
-    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/inception.mp4?alt=media",
-    "genre": "Sci-Fi Thriller",
-    "platform": "Prime Video"
+    "title": "Elephant Dream",
+    "videoUri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "genre": "Animated Sci-Fi",
+    "platform": "Vimeo"
   },
   {
     "id": "3",
-    "title": "Titanic",
-    "videoUri": "https://firebasestorage.googleapis.com/v0/b/zap-demo.appspot.com/o/titanic.mp4?alt=media",
-    "genre": "Romantic Drama",
-    "platform": "Disney+"
+    "title": "Sintel",
+    "videoUri": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "genre": "Fantasy Short",
+    "platform": "YouTube"
   }
 ]
