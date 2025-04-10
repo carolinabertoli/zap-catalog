@@ -20,19 +20,12 @@
     "genre": "Fantasy Short",
     "platform": "YouTube"
   },
-  {
-    "id": "4",
-    "title": "Barbie as the Princess and the Pauper",
-    "videoUri": "https://archive.org/download/barbie-as-the-princess-and-the-pauper-trailer/Barbie%20-%20The%20Princess%20And%20The%20Pauper%20Trailer.mp4",
-    "genre": "Animated Musical",
-    "platform": "YouTube"
-  },
-  {
-    "id": "5",
-    "title": "Barbie in the Nutcracker",
-    "videoUri": "https://your-storage-url.com/Barbie%20in%20the%20Nutcracker.mp4",
-    "genre": "Animated Ballet",
-    "platform": "DVD"
-  }
+ {
+  "id": "5",
+  "title": "Barbie in the Nutcracker",
+  "videoUri": "https://raw.githubusercontent.com/your-username/zap-catalog/main/Barbie%20in%20the%20Nutcracker.mp4",
+  "genre": "Animated Ballet",
+  "platform": "DVD"
+}
 ]
 
