@@ -20,12 +20,6 @@
     "genre": "Fantasy Short",
     "platform": "YouTube"
   },
- {
-  "id": "5",
-  "title": "Barbie in the Nutcracker",
-  "videoUri": "https://raw.githubusercontent.com/your-username/zap-catalog/main/Barbie%20in%20the%20Nutcracker.mp4",
-  "genre": "Animated Ballet",
-  "platform": "DVD"
-}
+
 ]
 
